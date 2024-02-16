@@ -1,0 +1,2 @@
+zadanie: zrób funkcję do wywołania z poziomu C, która z podanej tablicy znaków UTF-16 (ograniczonych do BMP) wyszukuje podany znak, 
+funkcja ma zwracać liczbę znalezień tego znaku, i dodatkowo w przekazanym wskaźniku ma się znaleźć adres pierwszego znalezionego znaku w tablicy 
